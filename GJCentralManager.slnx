@@ -1,0 +1,14 @@
+<Solution>
+  <Folder Name="/01 Presentación/">
+    <Project Path="GJCentralManager.Api/GJCentralManager.Api.csproj" />
+  </Folder>
+  <Folder Name="/02 Application/">
+    <Project Path="GJCentralManager.Application/GJCentralManager.Application.csproj" />
+  </Folder>
+  <Folder Name="/03 Domain/">
+    <Project Path="GJCentralManager.Domain/GJCentralManager.Domain.csproj" />
+  </Folder>
+  <Folder Name="/04 Infrastructure/">
+    <Project Path="GJCentralManager.Infrastructure/GJCentralManager.Infrastructure.csproj" />
+  </Folder>
+</Solution>
